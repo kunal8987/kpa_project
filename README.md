@@ -45,3 +45,6 @@ Response: JSON containing user details.
 ## Limitations
 - The application does not include authentication.
 - Error handling is basic and can be improved.
+
+## Postman Api Testing Link
+https://web.postman.co/workspace/NEM111-Project~f52c75b9-0542-4ed5-953d-2967073d19b5/collection/26874681-df004a2a-b3d8-456b-9f61-c031c55ae725?action=share&source=copy-link&creator=26874681
